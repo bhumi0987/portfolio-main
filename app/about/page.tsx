@@ -11,7 +11,7 @@ const skills = [
   },
   {
     category: "Web Development",
-    items: ["HTML5", "CSS3", "React.js",  "Express.js", "REST APIs"],
+    items: ["HTML5", "CSS3", "React.js", "Talwind"],
   },
   {
     category: "Databases",
@@ -29,6 +29,7 @@ export default function AboutPage() {
   useEffect(() => {
     setIsVisible(true)
   }, [])
+  
 
   return (
     <div className="min-h-screen pt-24 pb-16 px-6">
