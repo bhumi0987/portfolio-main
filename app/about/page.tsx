@@ -7,11 +7,11 @@ import { Card } from "@/components/ui/card"
 const skills = [
   {
     category: "Programming Languages",
-    items: ["Java", "JavaScript (ES6+)", "Python", "C++"],
+    items: ["c++", "JavaScript (ES6+)", "Python", "java"],
   },
   {
     category: "Web Development",
-    items: ["HTML5", "CSS3", "React.js", "Node.js", "Express.js", "REST APIs"],
+    items: ["HTML5", "CSS3", "React.js",  "Express.js", "REST APIs"],
   },
   {
     category: "Databases",
@@ -19,7 +19,7 @@ const skills = [
   },
   {
     category: "Tools & Others",
-    items: ["Git & GitHub", "VS Code", "Postman", "Agile Workflow"],
+    items: ["Git & GitHub", "VS Code" ],
   },
 ]
 
