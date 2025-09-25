@@ -16,7 +16,7 @@ const experiences = [
   {
     title: "Social Media Manager",
     company: "Kshitiksha Foundation",
-    period: "June 2024 — Feb 2025",
+    period: "June 2024 — August 2025",
     description:
       "Managed and grew the foundation's social media presence across multiple platforms. Created and executed content strategies to engage audiences, raise awareness about initiatives, and boost community outreach. Collaborated with team members to design impactful campaigns, monitor analytics, and ensure consistent branding and messaging.",
     tags: ["Social Media", "Content Strategy", "Analytics", "Branding"],
