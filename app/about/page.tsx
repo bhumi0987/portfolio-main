@@ -21,6 +21,10 @@ const skills = [
     category: "Tools & Others",
     items: ["Git & GitHub", "VS Code" ],
   },
+  {
+    category: "Soft Skills",
+    items: ["Strong Communication and interperosnal skills", "Public Speaking"],
+  },
 ]
 
 export default function AboutPage() {
@@ -69,14 +73,12 @@ export default function AboutPage() {
                 </p>
                 <p>
                   In the past, I've worked on academic and personal projects ranging from{" "}
-                  <strong className="text-foreground">web applications</strong> and{" "}
-                  <strong className="text-foreground">backend systems</strong> to{" "}
-                  <strong className="text-foreground">UI-focused projects</strong>. These experiences have helped me
+                  <strong className="text-foreground">web applications</strong>
+                  These experiences have helped me
                   build a strong foundation in programming, database management, and application development.
                 </p>
                 <p>
-                  Outside of coding, I enjoy reading, exploring new tech trends, and working on side projects that
-                  challenge my creativity and technical skills.
+                  I also have knowledge of Python’s Pandas and Matplotlib libraries for data analysis and visualization.
                 </p>
               </div>
             </div>
