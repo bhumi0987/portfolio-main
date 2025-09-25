@@ -78,7 +78,7 @@ export default function AboutPage() {
                   build a strong foundation in programming, database management, and application development.
                 </p>
                 <p>
-                  I also have knowledge of Python’s Pandas and Matplotlib libraries for data analysis and visualization.
+                  I also have knowledge of Python’s Pandas and Matplotlib libraries for data analysis and visualization
                 </p>
               </div>
             </div>
